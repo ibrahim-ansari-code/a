@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { JetBrains_Mono, Inter } from 'next/font/google';
 import Script from 'next/script';
 
